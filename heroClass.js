@@ -35,6 +35,7 @@ class hero {
 
 let cont = 0;
 
-for (cont; cont <= 3; cont++) {
+for (cont; cont <= 3; cont++) 
+{
     let champion = new hero("Carvalho", 23, cont);
 }
